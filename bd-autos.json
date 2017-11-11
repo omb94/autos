@@ -1,0 +1,47 @@
+{
+  "autos" : {
+    "0" : {
+      "marca" : "Ferrari",
+      "votos" : 80
+    },
+    "1" : {
+      "marca" : "Lamborghini",
+      "votos" : 70
+    },
+    "2" : {
+      "marca" : "Audi",
+      "votos" : 50
+    },
+    "3" : {
+      "marca" : "Mercedes Benz",
+      "votos" : 100
+    },
+    "4" : {
+      "marca" : "BMW",
+      "votos" : 60
+    },
+    "5" : {
+      "marca" : "Porshe",
+      "votos" : 40
+    },
+    "6" : {
+      "marca" : "Kia",
+      "votos" : 10
+    },
+    "7" : {
+      "marca" : "Toyota",
+      "votos" : 20
+    },
+    "8" : {
+      "marca" : "Honda",
+      "votos" : 15
+    },
+    "9" : {
+      "marca" : "Bugati",
+      "votos" : 65
+    },
+    "10" : {
+      "marca" : "Volkswagen",
+      "votos" : 90   }
+  }
+}
