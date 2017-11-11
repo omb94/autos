@@ -1,10 +1,10 @@
 const config = {
- 	apiKey: "AIzaSyDxPa-Pd2jsVimBRwwDRcigF7K42c8leCA",
-    authDomain: "bd-veterinaria.firebaseapp.com",
-    databaseURL: "https://bd-veterinaria.firebaseio.com",
-    projectId: "bd-veterinaria",
-    storageBucket: "bd-veterinaria.appspot.com",
-    messagingSenderId: "414230109868"
+ 	apiKey: "AIzaSyCdHB2DEd1ajZTWE4YDacXgF6KW8C0TJmw",
+    authDomain: "automoviles-eafec.firebaseapp.com",
+    databaseURL: "https://automoviles-eafec.firebaseio.com",
+    projectId: "automoviles-eafec",
+    storageBucket: "automoviles-eafec.appspot.com",
+    messagingSenderId: "1048003833003"
   
   }
 

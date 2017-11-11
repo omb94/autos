@@ -7,10 +7,9 @@ const template = (datos) => {
     let item = datos[key]
     rows +=  `
      <tr>
-      <!--<td>${countRow++}</td>-->
-      <td><a href="/detalles/${key}">${item.name}</a></td>
-      <td>${item.cantidad}$</td>
-      <td>${item.precio}$</td>
+      <!--<td>${countRow++}</td>-->     
+      <td>${item.marca}$</td>
+      <td>${item.votos}$</td>
     </tr>
     `
   })
@@ -21,8 +20,7 @@ const template = (datos) => {
       <tr>
         <!--<th>#</th>-->
         <th>Nombre</th>
-        <th>Cantidad</th>
-        <th>precio</th>
+        <th>Votos</th>
       </tr>
     </thead>
     <tbody>
