@@ -4,7 +4,7 @@ import config from './../config'
 var firebase = require('firebase')
 var templateLista = require('./template')
 
-page('/homepage', mostrarLoader, function () {
+page('/', mostrarLoader, function () {
   var main = document.querySelector('main')
   
 if (!firebase.apps.length) { 

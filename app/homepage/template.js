@@ -33,7 +33,7 @@ const template = (datos) => {
     <div class="col s12">
       <div class="card">
         <div class="card-content">
-          <span class="card-title">Lista de Productos</span>
+          <span class="card-title">Lista de Autos</span>
           ${table}
         </div>
       </div>
